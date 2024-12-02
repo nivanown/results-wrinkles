@@ -344,3 +344,12 @@
   }
 
 }
+
+/* 420 */
+@media (max-width: 420px) {
+
+.results-wrinkles-section .gl-title br {
+  display: none;
+  }
+
+}
